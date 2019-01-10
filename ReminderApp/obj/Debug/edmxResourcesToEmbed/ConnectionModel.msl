@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ReminderAppModelStoreContainer" CdmEntityContainer="ReminderAppEntities">
+    <EntitySetMapping Name="Reminders">
+      <EntityTypeMapping TypeName="ReminderAppModel.Reminder">
+        <MappingFragment StoreEntitySet="Reminder">
+          <ScalarProperty Name="ReminderID" ColumnName="ReminderID" />
+          <ScalarProperty Name="ReminderHeading" ColumnName="ReminderHeading" />
+          <ScalarProperty Name="ReminderBody" ColumnName="ReminderBody" />
+          <ScalarProperty Name="RemDate" ColumnName="RemDate" />
+          <ScalarProperty Name="RemTime" ColumnName="RemTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

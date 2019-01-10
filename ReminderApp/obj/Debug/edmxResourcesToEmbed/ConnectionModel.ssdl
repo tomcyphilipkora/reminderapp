@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ReminderAppModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Reminder">
+    <Key>
+      <PropertyRef Name="ReminderID" />
+    </Key>
+    <Property Name="ReminderID" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ReminderHeading" Type="varchar(max)" />
+    <Property Name="ReminderBody" Type="varchar(max)" />
+    <Property Name="RemDate" Type="date" />
+    <Property Name="RemTime" Type="time" Precision="7" />
+  </EntityType>
+  <EntityContainer Name="ReminderAppModelStoreContainer">
+    <EntitySet Name="Reminder" EntityType="Self.Reminder" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,13 @@
+c:\users\kannan\documents\visual studio 2013\Projects\ReminderApp\ReminderApp\bin\Debug\ReminderApp.exe.config
+c:\users\kannan\documents\visual studio 2013\Projects\ReminderApp\ReminderApp\obj\Debug\ReminderApp.csprojResolveAssemblyReference.cache
+c:\users\kannan\documents\visual studio 2013\Projects\ReminderApp\ReminderApp\obj\Debug\ReminderApp.Home.resources
+c:\users\kannan\documents\visual studio 2013\Projects\ReminderApp\ReminderApp\obj\Debug\ReminderApp.Properties.Resources.resources
+c:\users\kannan\documents\visual studio 2013\Projects\ReminderApp\ReminderApp\obj\Debug\ReminderApp.csproj.GenerateResource.Cache
+c:\users\kannan\documents\visual studio 2013\Projects\ReminderApp\ReminderApp\bin\Debug\ReminderApp.exe
+c:\users\kannan\documents\visual studio 2013\Projects\ReminderApp\ReminderApp\bin\Debug\ReminderApp.pdb
+c:\users\kannan\documents\visual studio 2013\Projects\ReminderApp\ReminderApp\obj\Debug\ReminderApp.exe
+c:\users\kannan\documents\visual studio 2013\Projects\ReminderApp\ReminderApp\obj\Debug\ReminderApp.pdb
+c:\users\kannan\documents\visual studio 2013\Projects\ReminderApp\ReminderApp\bin\Debug\EntityFramework.dll
+c:\users\kannan\documents\visual studio 2013\Projects\ReminderApp\ReminderApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kannan\documents\visual studio 2013\Projects\ReminderApp\ReminderApp\bin\Debug\EntityFramework.xml
+c:\users\kannan\documents\visual studio 2013\Projects\ReminderApp\ReminderApp\bin\Debug\EntityFramework.SqlServer.xml
